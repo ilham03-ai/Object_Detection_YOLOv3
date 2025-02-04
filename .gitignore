@@ -1,0 +1,7 @@
+# File e cartelle da ignorare
+venv/
+.DS_Store
+runs/
+Object_Detection.egg-info/
+yolov5s.pt
+__pycache__/
